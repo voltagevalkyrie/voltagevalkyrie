@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @voltagevalkyrie
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JS, C
 - 📫 You can reach me on instagram @voltagevalkyrie
 
 <!---
