@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-(img align="right" alt="Coding" width="400" src="https://images.hdqwalls.com/download/lofi-vibes-4k-h4-2048x1152.jpg")
+(img align="right" alt="Coding" width="400" src="![image3](https://github.com/voltagevalkyrie/voltagevalkyrie/assets/149293731/3165a6ca-be54-4680-b72a-7ac4243da1c4)
+")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=voltagevalkyrie&label=Profile%20views&color=0e75b6&style=flat" alt="voltagevalkyrie" /> </p>
 
