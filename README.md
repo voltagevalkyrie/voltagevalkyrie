@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm valkyrie</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<h3 align="center">A passionate web developer..</h3>
 
 ![image3](https://github.com/voltagevalkyrie/voltagevalkyrie/assets/149293731/3165a6ca-be54-4680-b72a-7ac4243da1c4)
 
