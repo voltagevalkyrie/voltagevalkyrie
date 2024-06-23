@@ -8,7 +8,7 @@
 
 - 
 
-- 👯 I’m looking to collaborate on **E-commerce**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/voltagevalkyrie/voltagevalkyrie.git](https://github.com/voltagevalkyrie/voltagevalkyrie.git)
 
